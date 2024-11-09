@@ -1,0 +1,2 @@
+f o r   i   i n   r a n g e ( 1 0 0 0 - 7 ) :
+        p r i n t ( " z x c " ) 
